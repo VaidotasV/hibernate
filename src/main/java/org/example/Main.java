@@ -44,6 +44,7 @@ public class Main {
 
                 tx.commit();
                 System.out.println("Įrašai įtraukti");
+                // Atnaujintas Hibernate kodas (testavimui)
             }
         }
     }
