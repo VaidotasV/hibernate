@@ -43,7 +43,7 @@ public class Main {
                 }
 
                 tx.commit();
-                System.out.println("Įrašai įtraukti (jei jų trūko).");
+                System.out.println("Įrašai įtraukti");
             }
         }
     }
